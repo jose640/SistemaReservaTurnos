@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HQLqzt0MA+gyNg32pDYzupKJc2DgEqSlqDE0C0kpJQI=",
+  "Source": "ApiSistemaReservaTurnos",
+  "BasePath": "_content/ApiSistemaReservaTurnos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
